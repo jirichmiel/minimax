@@ -150,8 +150,9 @@ Result is
 
 ## Note 
 
-This implementation you find in `tests/NimTest.elm`
-For another example how to use this library see `tests/SimpleTreeTest.elm`
+This implementation you find in `tests/NimTest.elm`.
+
+For another example how to use this library see `tests/SimpleTreeTest.elm`.
 
 ## Source
 
