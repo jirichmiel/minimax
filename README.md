@@ -62,7 +62,7 @@ We use simplified variation of this game. Suppose there is only one heap with fi
 
 Define the `game position` as a number of coins on the Heap and the `game move` as a number of coins taken from the Heap. Look at image for idea how looks the search tree for this game.
 
-![Search tree for simplified game NIM](docs/minimax-nim.png)
+![Search tree for simplified game NIM](https://raw.githubusercontent.com/jirichmiel/minimax/master/docs/minimax-nim.png)
 
 ### How we implement "arguments" for minimax function?
 
