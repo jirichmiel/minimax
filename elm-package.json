@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Minimax with alpha-beta pruning.",
+    "repository": "https://github.com/jirichmiel/minimax.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Minimax"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
